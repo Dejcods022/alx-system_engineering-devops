@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-I'm a new alx student, this is my first repository as a full-stack engineer.
+This readme file is about a project concerning shell permissions!.
