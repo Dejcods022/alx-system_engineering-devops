@@ -13,3 +13,4 @@ This is a readme file for the shell redirections project.
 11- count directories incuding hidden ones
 12- newest files
 13- list unique list
+14- find a word 
