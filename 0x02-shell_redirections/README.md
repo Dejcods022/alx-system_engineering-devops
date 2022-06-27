@@ -6,3 +6,4 @@ This is a readme file for the shell redirections project.
 4- display last 10 lines
 5- display first 10 lines
 6- the third line
+7- create a file with new line
