@@ -11,4 +11,5 @@ This is a readme file for the shell redirections project.
 9- duplicate last line
 10- delete only .js files
 11- count directories incuding hidden ones
-
+12- newest files
+13- list unique list
