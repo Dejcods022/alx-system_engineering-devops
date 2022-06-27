@@ -9,3 +9,4 @@ This is a readme file for the shell redirections project.
 7- create a file with new line
 8-redirect ls -la command into a file 
 9- duplicate last line
+10- delete only .js files
