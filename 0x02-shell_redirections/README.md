@@ -5,3 +5,4 @@ This is a readme file for the shell redirections project.
 3- display two files
 4- display last 10 lines
 5- display first 10 lines
+6- the third line
