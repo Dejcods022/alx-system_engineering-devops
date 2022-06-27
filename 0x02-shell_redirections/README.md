@@ -1,6 +1,6 @@
 This is a readme file for the shell redirections project.
-1- print hello world
-2- print confused smiley
-3- display content ofa file
-4- display two files
-
+0- print hello world
+1- print confused smiley
+2- display content ofa file
+3- display two files
+4- display last 10 lines
