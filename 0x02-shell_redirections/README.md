@@ -14,3 +14,4 @@ This is a readme file for the shell redirections project.
 12- newest files
 13- list unique list
 14- find a word 
+15- count a word
