@@ -15,3 +15,5 @@ This is a readme file for the shell redirections project.
 13- list unique list
 14- find a word 
 15- count a word
+16- display the pattern "root" and 3 lines after that
+17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern17- hide a pattern
