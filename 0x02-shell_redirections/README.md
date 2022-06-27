@@ -8,4 +8,4 @@ This is a readme file for the shell redirections project.
 6- the third line
 7- create a file with new line
 8-redirect ls -la command into a file 
-
+9- duplicate last line
